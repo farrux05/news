@@ -1,0 +1,21 @@
+@media(max-width:850px){
+    .nav-content , .footer-nav, .footer-nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav-list, .footer-link{
+        margin-top: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .main-content{
+        flex-wrap: wrap;
+
+    }
+    .main-image{
+        width: 100%;
+    }
+
+}
